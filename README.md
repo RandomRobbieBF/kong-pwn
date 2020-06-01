@@ -1,5 +1,7 @@
 # kong-pwn
-Use Exposed KongAPI to act like a proxy and get metadata urls or internal urls
+Use Exposed KongAPI to act like a proxy and get metadata urls or internal urls.
+
+CVE-2020-11710 - It's not a vuln it's a misconfiguration.
 
 How to use
 ---
